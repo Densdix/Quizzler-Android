@@ -21,6 +21,7 @@ public class TrueFalse {
         return mAnswer;
     }
 
+
     public void setmAnswer(boolean mAnswer) {
         this.mAnswer = mAnswer;
     }
